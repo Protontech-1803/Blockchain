@@ -1,7 +1,6 @@
   # Deploy Quorum Blockchain network in GKE
 
-  ### In this POC we will deploy quorum blockchain network in Kubernetes. Quorum is an open-source Ethereum client developed under the LGPL license and written in Go.
-  ###  Qubernetes is a project for generating Quorum network resources, and managing and interacting with a Quorum Kubernetes deployment.
+#### In this POC we will deploy quorum blockchain network in Kubernetes. Quorum is an open-source Ethereum client developed under the LGPL license and written in Go. Qubernetes is a project for generating Quorum network resources, and managing and interacting with a Quorum Kubernetes deployment.
   
   ### Prerequisite:
    - GCP Kubernetes cluster with client
